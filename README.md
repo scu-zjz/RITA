@@ -68,6 +68,8 @@ More code and data will be made publicly available as soon as possible.
 
 We thank the [IMDLBenCo](https://github.com/scu-zjz/IMDLBenCo) repository for its support. RITA is developed based on IMDLBenCo and further adapted to process-aware sequential manipulation localization.
 
+📝 **Blog**: [分久必合：统一的伪造图像检测（Unified FID）](https://knightzjz.github.io/blog/unified-fid.html) / **Blog**: [Long Divided, Must Unite](https://knightzjz.github.io/blog/unified-fid-en.html) — an introduction to the Unified Fake Image Detection task and the discussion on why this task matters, and where the field is heading.
+
 ## Citation
 
 If you find our work interesting or helpful, please don't hesitate to give us a star🌟 and cite our paper🥰! Your support truly encourages us!
