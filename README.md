@@ -20,9 +20,10 @@ We are gradually releasing the code, pretrained models, and datasets for this pr
 
 <details>
 <summary>Inference under the CAT-Net protocol</summary>
-Please first download the required files from Baidu Netdisk:
+Please first download the required files from Google Drive or Baidu Netdisk:
 
 ```text
+Google Drive link: https://drive.google.com/file/d/1cylZ3orzHBaJi5nW_sWQArMKniQWqbXV/view?usp=sharing
 Baidu Netdisk link: https://pan.baidu.com/s/1W1HC4_mn044ub2NLJLSeQQ?pwd=43nn
 ```
 
