@@ -5,6 +5,12 @@ This repository contains the official PyTorch implementation of our CVPR 2026 Fi
 
 RITA is a model framework that first identifies the phenomenon of dimension collapse in image manipulation localization, where realistic manipulation scenarios are often reduced to simplified binary localization settings. Beyond proposing a new framework, RITA provides a systematic discussion of this issue from three perspectives: dataset construction, model design, and future research directions. In particular, it highlights the importance of moving beyond static tampered-region annotations toward process-aware manipulation understanding, aiming to promote more realistic and generalizable image manipulation localization.
 
+## News
+
+- **[2026.10]** Our work, **[PAL](https://arxiv.org/abs/2610.07916)**, has been accepted to **NeurIPS 2026(Oral)**. It explicitly disentangles manipulation artifacts through pairwise edit relations to improve image manipulation localization across diverse architectures.
+
+- **[2026.08]** **Blog**: [分久必合：统一的伪造图像检测](https://knightzjz.github.io/blog/unified-fid.html) / [Unified Fake Image Detection](https://knightzjz.github.io/blog/unified-fid-en.html) — an introduction to the Unified Fake Image Detection task and the discussion on why this task matters, and where the field is heading.
+
 ### Code & Dataset Release
 
 We are gradually releasing the code, pretrained models, and datasets for this project.
@@ -68,8 +74,6 @@ More code and data will be made publicly available as soon as possible.
 ## Acknowledgements
 
 We thank the [IMDLBenCo](https://github.com/scu-zjz/IMDLBenCo) repository for its support. RITA is developed based on IMDLBenCo and further adapted to process-aware sequential manipulation localization.
-
-📝 **Blog**: [分久必合：统一的伪造图像检测](https://knightzjz.github.io/blog/unified-fid.html) / [Unified Fake Image Detection](https://knightzjz.github.io/blog/unified-fid-en.html) — an introduction to the Unified Fake Image Detection task and the discussion on why this task matters, and where the field is heading.
 
 ## Citation
 
